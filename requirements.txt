@@ -1,0 +1,2 @@
+click==7.1.2
+columnize==0.3.10
